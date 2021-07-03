@@ -1,0 +1,2 @@
+# jsonconfig
+Library for InnoSetup

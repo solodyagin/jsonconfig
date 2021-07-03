@@ -1,0 +1,12 @@
+{
+	"str": "Hello",
+	"int": 1,
+	"foo": {
+		"str": "World",
+		"int": 2,
+		"bool": true
+	},
+	"bar": {
+		"bool": false
+	}
+}
